@@ -1,0 +1,17 @@
+{
+  "facts": [
+    {
+      "fact": "F1スコアは機械学習の分類問題における評価指標です。",
+      "timestamp": "2026-06-11T06:14:02.265269"
+    },
+    {
+      "fact": "F1スコアはPrecision（適合率）とRecall（再現率）の調和平均で計算されます。",
+      "timestamp": "2026-06-11T06:14:03.288993"
+    },
+    {
+      "fact": "F1スコアの計算式は F1 = 2 × Precision × Recall ÷ (Precision + Recall) です。",
+      "timestamp": "2026-06-11T06:14:04.618552"
+    }
+  ],
+  "searches": []
+}
