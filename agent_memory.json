@@ -11,6 +11,10 @@
     {
       "fact": "F1スコアの計算式は F1 = 2 × Precision × Recall ÷ (Precision + Recall) です。",
       "timestamp": "2026-06-11T06:14:04.618552"
+    },
+    {
+      "fact": "F1スコアは、分類問題における機械学習モデルの評価指標の一つです。Precision（適合率）とRecall（再現率）の調和平均で計算され、F1 = 2 × Precision × Recall ÷ (Precision + Recall) という式で表されます。",
+      "timestamp": "2026-06-13T06:28:50.421883"
     }
   ],
   "searches": []
