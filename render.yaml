@@ -1,0 +1,12 @@
+# render.yaml
+services:
+  - type: web
+    name: pgvector-mcp-server
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python mcp_server/server_render.py
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false  # Renderのダッシュボードで手動設定
+      - key: DATABASE_URL
+        sync: false  # Renderのダッシュボードで手動設定
