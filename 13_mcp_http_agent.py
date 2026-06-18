@@ -12,7 +12,7 @@ load_dotenv()
 gemini_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 # HTTPサーバーのURL（server_http.py が起動済みであること）
-MCP_SERVER_URL = "http://localhost:8000/mcp"
+MCP_SERVER_URL = "https://pgvector-tutorial.onrender.com/mcp"
 
 
 async def run_agent(task: str):
