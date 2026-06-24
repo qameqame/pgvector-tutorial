@@ -1,0 +1,20 @@
+{
+  "daily": {
+    "2026-06-25": {
+      "gemini-2.5-flash": {
+        "requests": 2,
+        "input_tokens": 350,
+        "output_tokens": 200
+      },
+      "gemini-embedding-001": {
+        "requests": 3,
+        "input_tokens": 150,
+        "output_tokens": 0
+      }
+    }
+  },
+  "total": {
+    "requests": 5,
+    "estimated_cost_usd": 0.0
+  }
+}
