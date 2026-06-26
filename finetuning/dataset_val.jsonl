@@ -1,0 +1,2 @@
+{"instruction": "PandasのDataFrameで特定の列を選択する方法は？", "input": "", "output": "列の選択方法は複数あります。\n単一列: df['列名'] または df.列名\n複数列: df[['列名1', '列名2']]\n条件付き: df.loc[条件, '列名'] または df.iloc[行番号, 列番号]"}
+{"instruction": "AWSのS3とEBSの違いを教えてください。", "input": "", "output": "S3（Simple Storage Service）: オブジェクトストレージ。ファイルをキーで管理。スケーラブルで安価。静的ファイル・バックアップ向け。\nEBS（Elastic Block Store）: ブロックストレージ。EC2インスタンスにアタッチして使うHDD/SSD。データベース・OSディスクなどに使用。"}
