@@ -2,3 +2,6 @@
 .venv/
 __pycache__/
 *.pyc
+# Fine-tuning outputs
+finetuning/lora_output/
+finetuning/*.jsonl
