@@ -4,12 +4,12 @@ A hands-on repository for building a RAG system from scratch using pgvector and 
 
 ## Overview
 
-This repository contains the source code for two Zenn books.
+This repository contains the source code for two Zenn books, also published as article series on Dev.to.
 
-| Book | Topics | Link |
-|------|--------|------|
-| Vol.1 | RAG · Tool Use · AI Agents · MCP · Cloud Deployment | [Zenn](https://zenn.dev/hkame/books/ai-architect-rag) |
-| Vol.2 | Evals · Observability · Security · MLOps · Fine-tuning · Multi-Agent · Governance | [Zenn](https://zenn.dev/hkame/books/ai-architect-production) |
+| Book | Topics | Zenn | Dev.to |
+|------|--------|------|--------|
+| Vol.1 | RAG · Tool Use · AI Agents · MCP · Cloud Deployment | [Zenn](https://zenn.dev/hkame/books/ai-architect-rag) | [Dev.to](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-with-pgvector-and-gemini-introduction-c8i) |
+| Vol.2 | Evals · Observability · Security · MLOps · Fine-tuning · Multi-Agent · Governance | [Zenn](https://zenn.dev/hkame/books/ai-architect-production) | [Dev.to](https://dev.to/hiroki-kameyama/taking-rag-to-production-evals-observability-security-and-beyond-introduction-44kb) |
 
 ---
 
@@ -230,10 +230,15 @@ This RAG system is classified as **Limited Risk (chatbot)** under the EU AI Act,
 
 ---
 
-## Zenn Books
+## Articles
 
+### Zenn Books
 - **Vol.1**: [RAG Implementation Guide for AI Beginners](https://zenn.dev/hkame/books/ai-architect-rag)
 - **Vol.2**: [Production Operations Guide for AI Architects](https://zenn.dev/hkame/books/ai-architect-production)
+
+### Dev.to Series
+- **Vol.1**: [RAG Implementation Guide for AI Architects](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-with-pgvector-and-gemini-introduction-c8i)
+- **Vol.2**: [Production Operations Guide for AI Architects](https://dev.to/hiroki-kameyama/taking-rag-to-production-evals-observability-security-and-beyond-introduction-44kb)
 
 ---
 
